@@ -1,6 +1,6 @@
 {
   "name": "com.avt.tool.scene.selection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a drop-down on toolbar that quick select scenes in build list",
   "displayName": "Quick Scene Selection",
   "unity": "2020.3",
