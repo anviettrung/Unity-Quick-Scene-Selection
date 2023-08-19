@@ -10,7 +10,7 @@ namespace Packages.com.avt.tool.scene.selection.Editor
 	{
 		static SceneSwitchRightButton()
 		{
-			ToolbarExtender.RightToolbarGUI.Add(OnToolbarGUI);
+			UnityToolbarExtender.ToolbarExtender.RightToolbarGUI.Add(OnToolbarGUI);
 		}
 
 		private const string UnknownString = "<-unknown->";
