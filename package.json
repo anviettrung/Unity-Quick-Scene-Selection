@@ -2,7 +2,7 @@
   "name": "com.avt.tool.scene.selection",
   "version": "1.1.0",
   "displayName": "Quick Scene Selection",
-  "description": "Provides a drop-down on toolbar that quickly select scenes in build list",
+  "description": "Provide a drop-down in the toolbar that quickly selects scenes in the build list.",
   "unity": "2022.3",
   "dependencies": {
     "com.marijnzwemmer.unity-toolbar-extender": "https://github.com/marijnz/unity-toolbar-extender.git"

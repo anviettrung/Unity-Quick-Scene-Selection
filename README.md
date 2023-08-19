@@ -1,6 +1,6 @@
 ﻿# Quick Scene Selection
 
-Provides a drop-down on toolbar that quickly select scenes in build list
+Provide a drop-down in the toolbar that quickly selects scenes in the build list.
 
 ## Importing
 
@@ -8,14 +8,14 @@ To use this in your Unity project import it from Unity Package Manager. You can 
 
 ## How To use
 
-First, open **Build Settings** panel from **File->Build Settings...**
+First, open the **Build Settings** panel from **File->Build Settings...**
 
 ![step1](Documentation~/step_1.png)
 
-Next, Add your scenes to the list, include both scenes in your build and scene in editor time only (uncheck it from build).
+Next, add your scenes to the list, including both scenes in your build and the scene in the editor at runtime only (uncheck it from the build).
 
 ![step2](Documentation~/step_2.png)
 
-Now, you can change scene by selecting scene from drop-down next to Play/Pause/Next group buttons.
+Now, you can change the scene by selecting a scene from the drop-down next to the Play/Pause/Next group of buttons.
 
 ![step3](Documentation~/step_3.png)
